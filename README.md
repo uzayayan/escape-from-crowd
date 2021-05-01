@@ -12,13 +12,6 @@ Unity Version : 2019.4.23f1
   - UniTask
   - MyBox
 
-## Footages ##
-
-![alt tag](https://i.ibb.co/djWpZ9Z/Screen-Shot-2021-05-02-at-00-51-37.png)
-![alt tag](https://i.ibb.co/BfZ9TpJ/Screen-Shot-2021-05-02-at-00-51-45.png)
-![alt tag](https://i.ibb.co/9tF0dZ5/Screen-Shot-2021-05-02-at-00-51-55.png)
-![alt tag](https://i.ibb.co/6WsCgG8/Screen-Shot-2021-05-02-at-00-52-18.png)
-
 
 ## Game Settings ##
 
@@ -87,6 +80,14 @@ You can create weapon in easly. Steps:
 ![alt tag](https://i.ibb.co/mH5D2Fn/Screen-Shot-2021-05-01-at-23-40-06.png)
 
 After everything is over you should add created weapon to Weapons fields of Manager Controller in Initializer scene.
+
+
+## Footages ##
+
+![alt tag](https://i.ibb.co/djWpZ9Z/Screen-Shot-2021-05-02-at-00-51-37.png)
+![alt tag](https://i.ibb.co/BfZ9TpJ/Screen-Shot-2021-05-02-at-00-51-45.png)
+![alt tag](https://i.ibb.co/9tF0dZ5/Screen-Shot-2021-05-02-at-00-51-55.png)
+![alt tag](https://i.ibb.co/6WsCgG8/Screen-Shot-2021-05-02-at-00-52-18.png)
 
 ## Sound Manager ##
 ![alt tag](https://i.ibb.co/yS4wdxs/Screen-Shot-2021-05-02-at-00-58-15.png)
