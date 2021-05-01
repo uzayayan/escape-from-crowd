@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ActionText
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 93c9746d7db904d6a99d46a628fa17df, type: 3}
+    totalSpriteSurfaceArea: 372865
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 80787810ca3c04bc7823de0fc5ee8556, type: 3}
+  - {fileID: 21300000, guid: 8b7aabf084aed42f0984e1e56635db20, type: 3}
+  - {fileID: 21300000, guid: 1a4c935106d3c4bb98f454ada52041cb, type: 3}
+  - {fileID: 21300000, guid: 0fed1bd3fbc694b48bce41bd5c2948ff, type: 3}
+  - {fileID: 21300000, guid: c10190e69db4141fabdf278612c6bd5f, type: 3}
+  - {fileID: 21300000, guid: 17572667ea4754297a828a8ee71bdcbe, type: 3}
+  - {fileID: 21300000, guid: 243cae192a1c44237bdf9eba50ccb04b, type: 3}
+  - {fileID: 21300000, guid: 3fd3cbc9700344da6a3895aed37f5f51, type: 3}
+  - {fileID: 21300000, guid: 59a1ddf9fb03e402c914395c4aa91d3f, type: 3}
+  - {fileID: 21300000, guid: 9ad14adaa1bc24f8e9bc5089e03aca16, type: 3}
+  - {fileID: 21300000, guid: 7586f9faa78904ca6bd338921016e5d0, type: 3}
+  - {fileID: 21300000, guid: 2757a12fcc81c4b3b8569152258f0e30, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - txt_good
+  - txt_start
+  - txt_nice
+  - txt_times_up
+  - txt_perfect
+  - txt_complete
+  - txt_ready
+  - txt_mission_clear
+  - txt_game_over
+  - txt_go
+  - txt_combo
+  - txt_great
+  m_Tag: ActionText
+  m_IsVariant: 0

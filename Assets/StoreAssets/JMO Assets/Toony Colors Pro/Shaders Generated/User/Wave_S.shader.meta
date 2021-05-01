@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 986bb8a5a3849dd48aff049cb4b31bc4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NoTileNoiseTex: {fileID: 2800000, guid: af5515bfe14f1af4a9b8b3bf306b9261, type: 3}
+  - _Ramp: {fileID: 2800000, guid: ccad9b0732473ee4e95de81e50e9050f, type: 3}
+  nonModifiableTextures: []
+  userData: USER,FVERTEX_SIN_WAVES,FDEPTH_BUFFER_FOAM,KSHADER_TARGET:3.0,ch1F74F071,cSM:30,cCT:water,cCF:TCP2_ShaderTemplate_Water
+  assetBundleName: 
+  assetBundleVariant: 

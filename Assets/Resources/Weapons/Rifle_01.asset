@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b43be383c194136b4a40e15cd0ff7a, type: 3}
+  m_Name: Rifle_01
+  m_EditorClassIdentifier: 
+  Id: 1
+  Damage: 1
+  Capacity: 12
+  ReloadTime: 2
+  TriggerDelay: 0.1
+  Prefab: {fileID: 714417846003203462, guid: af90650b24c574e5080c5d1cec53b178, type: 3}
+  Icon: {fileID: 21300000, guid: 3bc45a0a815864617afda4f2d744c8ba, type: 3}
+  FireClip: {fileID: 8300000, guid: 74cf1097850c14291b248b428b6b1fac, type: 3}
+  ReloadClip: {fileID: 8300000, guid: 7a6a6b44a6de34c9b99a85ed45d19dd6, type: 3}
