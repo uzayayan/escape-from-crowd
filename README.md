@@ -1,3 +1,5 @@
+# Introduction #
+
 Hi Firebyte Teams!
 
 First of all, the game must be launched from the "Initializer" scene for it to work correctly. You can find Game Settings, Levels and Weapons presets in Resources folder. By the way I created 2 level and 2 weapon data for the example. Thanks for taking your time to examine.
@@ -13,7 +15,7 @@ Unity Version : 2019.4.23f1
   - MyBox
 
 
-## Game Settings ##
+# Game Settings #
 
 ![alt tag](https://i.ibb.co/r3JQdgy/Screen-Shot-2021-05-01-at-22-56-11.png)
   
@@ -35,7 +37,7 @@ Notice :
     - etc.
 
 
-## Create Level ##
+# Create Level #
 
 You can create level in easly. Steps:
 
@@ -56,7 +58,7 @@ You can create level in easly. Steps:
 After everything is over you should add created level to Levels fields of Manager Controller in Initializer scene.
 
 
-## Create Weapon ##
+# Create Weapon #
 
 You can create weapon in easly. Steps:
 
@@ -82,13 +84,13 @@ You can create weapon in easly. Steps:
 After everything is over you should add created weapon to Weapons fields of Manager Controller in Initializer scene.
 
 
-## Sound Manager ##
+# Sound Manager #
 ![alt tag](https://i.ibb.co/yS4wdxs/Screen-Shot-2021-05-02-at-00-58-15.png)
 
 If you want change game sounds you can make with Sound Manager script. Sound Manager script is located on Game scene.
 
 
-## Footages ##
+# Footages #
 
 ![alt tag](https://i.ibb.co/djWpZ9Z/Screen-Shot-2021-05-02-at-00-51-37.png)
 ![alt tag](https://i.ibb.co/BfZ9TpJ/Screen-Shot-2021-05-02-at-00-51-45.png)
