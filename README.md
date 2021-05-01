@@ -82,16 +82,15 @@ You can create weapon in easly. Steps:
 After everything is over you should add created weapon to Weapons fields of Manager Controller in Initializer scene.
 
 
-## Footages ##
-
-![alt tag](https://i.ibb.co/djWpZ9Z/Screen-Shot-2021-05-02-at-00-51-37.png)
-![alt tag](https://i.ibb.co/BfZ9TpJ/Screen-Shot-2021-05-02-at-00-51-45.png)
-![alt tag](https://i.ibb.co/9tF0dZ5/Screen-Shot-2021-05-02-at-00-51-55.png)
-![alt tag](https://i.ibb.co/6WsCgG8/Screen-Shot-2021-05-02-at-00-52-18.png)
-
 ## Sound Manager ##
 ![alt tag](https://i.ibb.co/yS4wdxs/Screen-Shot-2021-05-02-at-00-58-15.png)
 
 If you want change game sounds you can make with Sound Manager script. Sound Manager script is located on Game scene.
 
 
+## Footages ##
+
+![alt tag](https://i.ibb.co/djWpZ9Z/Screen-Shot-2021-05-02-at-00-51-37.png)
+![alt tag](https://i.ibb.co/BfZ9TpJ/Screen-Shot-2021-05-02-at-00-51-45.png)
+![alt tag](https://i.ibb.co/9tF0dZ5/Screen-Shot-2021-05-02-at-00-51-55.png)
+![alt tag](https://i.ibb.co/6WsCgG8/Screen-Shot-2021-05-02-at-00-52-18.png)
